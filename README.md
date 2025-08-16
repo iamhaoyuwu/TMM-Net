@@ -5,7 +5,7 @@ The code in this repository is currently undergoing organization and optimizatio
 For now, only some key code snippets have been placed here to provide a preliminary understanding of the core implementation logic.
 Thank you for your understanding and attention. We will update the instructions promptly once the full code is released.
 
-REFERENCES
+REFERENCES  
 [1] X. Leng, K. Ji, and G. Kuang, "Ship Detection From Raw SAR Echo Data," IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-11, 2023.
 [2] D. Li, Q. Liang, H. Liu, Q. Liu, H. Liu, and G. Liao, "A Novel Multidimensional Domain Deep Learning Network for SAR Ship Detection," IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-13, 2022.
 [3] Z. Sun et al., "An Anchor-Free Detection Method for Ship Targets in High-Resolution SAR Images," IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 14, pp. 7799-7816, 2021.
