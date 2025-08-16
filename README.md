@@ -1,6 +1,10 @@
 # TMM-Net
 A SAR Ship Detection Method Based on Multi-scale Transformer Sampling
 
+The code in this repository is currently undergoing organization and optimization. The complete version will be officially released once the process is finished.
+For now, only some key code snippets have been placed here to provide a preliminary understanding of the core implementation logic.
+Thank you for your understanding and attention. We will update the instructions promptly once the full code is released.
+
 REFERENCES
 [1] X. Leng, K. Ji, and G. Kuang, "Ship Detection From Raw SAR Echo Data," IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-11, 2023.
 [2] D. Li, Q. Liang, H. Liu, Q. Liu, H. Liu, and G. Liao, "A Novel Multidimensional Domain Deep Learning Network for SAR Ship Detection," IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-13, 2022.
